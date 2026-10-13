@@ -2,33 +2,6 @@
 **Cattleyaaaaa/Cattleyaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![🇨🇳 中文](https://img.shields.io/badge/🇨🇳_中文-点击查看-red?style=for-the-badge)](#中文) [![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-Click_Here-blue?style=for-the-badge)](#english)
-
----
-
-## <a id="中文"></a>🇨🇳 中文
-
-### 👋 你好，我是 Cattleyaaaaa · [个人网站](https://nextfield.top)
-
-- 全栈 Web 开发者
-- 边缘计算 & Serverless 爱好者
-- AI/RAG 折腾者（主要是好玩）
-
-> 代码、科学和思考 —— 我每天花时间的地方。
-
-#### 🧩 Personal Works
-
-- [Yorozuya](https://github.com/Cattleyaaaaa/Yorozuya) · [yorozuya.fun](https://yorozuya.fun) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) — 万事屋 · 支持角色陪伴、记忆、待办与真实工程任务的 AI 助手，工作台可读写文件、执行命令并人工审批
-- [nextfield](https://github.com/Cattleyaaaaa/nextfield) · [nextfield.top](https://nextfield.top) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) — 下一场域 · 全栈个人站与 Field Agent 站内问答助手，含 Durable Objects 限流与 Cloudflare 部署
-
-#### 🚀 Real-World Projects
-
-- [Neptune Multi-agent Workspace](https://github.com/Cattleyaaaaa/Neptune-Multi-agent-Workspace) · [myneptune.tech](http://myneptune.tech/) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![LangGraph4j](https://img.shields.io/badge/LangGraph4j-6DB33F?style=flat-square) ![SSE](https://img.shields.io/badge/SSE-FF6F00?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) — Supervisor 驱动的通用多 Agent 工作台，动态编排研究/数据/代码/审查 Agent，高风险操作需人工审批
-
----
-
-## <a id="english"></a>🇬🇧 English
-
 ### 👋 Hello, I'm Cattleyaaaaa · [Website](https://nextfield.top)
 
 - Full-stack Web Developer
