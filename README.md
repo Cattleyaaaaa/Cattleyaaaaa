@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 关于我
+
+全栈开发者，技术栈覆盖 **Next.js / React / TypeScript** 前端与 **Java / Spring Boot / Node.js** 后端，熟悉 **Cloudflare Workers、Supabase、PostgreSQL** 等云原生与数据方案。
+
+近期聚焦 **AI Agent** 方向，实践过 **Spring AI、Google ADK、MCP 协议**，具备 **RAG 知识检索、多轮对话、流式输出、来源引用** 的完整落地经验。
+
+擅长在**边缘计算**与**AI 应用**之间做工程化整合，追求可维护、可扩展、可观测的系统设计。
 
 ## 🛠️ Tech Stack
 
