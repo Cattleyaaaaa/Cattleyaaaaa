@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Cattleyaaaaa/Cattleyaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 关于我
 
-全栈开发者，技术栈覆盖 **Next.js / React / TypeScript** 前端与 **Java / Spring Boot / Node.js** 后端，熟悉 **Cloudflare Workers、Supabase、PostgreSQL** 等云原生与数据方案。
+### 👋 Hello, I'm Cattleyaaaaa · [个人网站](https://nextfield.top)
 
-近期聚焦 **AI Agent** 方向，实践过 **Spring AI、Google ADK、MCP 协议**，具备 **RAG 知识检索、多轮对话、流式输出、来源引用** 的完整落地经验。
+- Full-stack Web Developer
+- Edge Computing & Serverless Enthusiast
+- AI/RAG Tinkerer (for fun, mostly)
 
-擅长在**边缘计算**与**AI 应用**之间做工程化整合，追求可维护、可扩展、可观测的系统设计。
+> Code, science, and thoughts — what I spend my days on.
 
+---
+
+#### 🧩 Personal Works
+
+- [Yorozuya](https://github.com/Cattleyaaaaa/Yorozuya) · [yorozuya.fun](https://yorozuya.fun) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) — 万事屋 · 支持角色陪伴、记忆、待办与真实工程任务的 AI 助手，工作台可读写文件、执行命令并人工审批
+- [nextfield](https://github.com/Cattleyaaaaa/nextfield) · [nextfield.top](https://nextfield.top) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) — 下一场域 · 全栈个人站与 Field Agent 站内问答助手，含 Durable Objects 限流与 Cloudflare 部署
+
+#### 🚀 Real-World Projects
+
+- [Neptune Multi-agent Workspace](https://github.com/Cattleyaaaaa/Neptune-Multi-agent-Workspace) · [myneptune.tech](http://myneptune.tech/) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![LangGraph4j](https://img.shields.io/badge/LangGraph4j-6DB33F?style=flat-square) ![SSE](https://img.shields.io/badge/SSE-FF6F00?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) — Supervisor 驱动的通用多 Agent 工作台，动态编排研究/数据/代码/审查 Agent，高风险操作需人工审批
 ## 🛠️ Tech Stack
+
+---
 
 ### Fullstack
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
