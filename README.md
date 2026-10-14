@@ -6,7 +6,7 @@
 
 - Full-stack Web Developer
 - Edge Computing & Serverless Enthusiast
-- AI/RAG Tinkerer (for fun, mostly)
+- AI/RAG Tinkerer 
 
 > Code, science, and thoughts — what I spend my days on.
 
